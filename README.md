@@ -1,16 +1,6 @@
-# Title
+# Hashketball
 
-## Learning Goals
+## Objectives
 
--SWBAT 1
--SWBAT 2
-
-## Introduction
-
-## SWBAT 1
-
-## SWBAT 2
-
-## Conclusion
-
-## Resources
+1. Practice building nested hashes.
+2. Practice iterating over nested hashes.
